@@ -1,2 +1,2 @@
 # barbershop.github.io
-[Демо](https://abdillabek.github.io/barbershop.github.io/)
+[ДЕМО](https://abdillabek.github.io/barbershop.github.io/)
