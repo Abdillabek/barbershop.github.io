@@ -952,8 +952,8 @@ input[type="radio"].visually-hidden {
 .product-price b {
   width: 112px;
   padding-top: 13px;
-  padding-left: 36px;
-  padding-right: 36px;
+  padding-left: 34px;
+  padding-right: 34px;
   padding-bottom: 11px;
 
   line-height: 20px;
